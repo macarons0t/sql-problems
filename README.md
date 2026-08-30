@@ -7,8 +7,5 @@ A collation of solved SQL questions. Relevant problems mirroring SQL concepts or
 sql-solutions/
 |--- README.md
 |--- stratascratch/
-|    |--- easy/
-|.   |--- medium/
-|.   |--- hard/
 |--- datalemur/
 ```
